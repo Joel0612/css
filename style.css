@@ -1,0 +1,67 @@
+.artista {
+    
+        padding: 50px 0;
+        text-align: center;
+        width: 500px;
+        margin: 0% auto;
+        background-color: gainsboro;
+    
+}
+#th{
+
+       margin: 0 auto;
+       width: 500px;
+       padding: 100px;
+      
+}
+.div{
+        background-color: aliceblue;
+        width: 200PX;
+        padding: 10px 0PX 0 0;
+        margin: 30px;
+        float: left;
+}
+.remix{
+        background-color: aliceblue;
+        width: 200px;
+        padding: 40px 15PX 0 0;
+        margin: 30px;
+        float: right;
+}
+table{
+        width: 50%;
+        border-collapse: collapse;
+       /* display: line;*/
+        margin: 0px 0px 50px 200px;
+        padding: auto;
+        /*justify-content: center; /* Centra horizontalmente */
+       /* align-items: center;*/     /* Centra verticalmente */
+}
+th , td{
+        border: 1px solid black;
+        padding: 5px;
+    }
+    th{
+        background-color: gainsboro;
+        text-align: left;
+    }
+.ano{
+        text-align: center;
+}
+tr:hover{
+        background-color: aqua;
+        cursor: pointer;
+}
+.clas{
+        background-color: rgb(240, 249, 255);
+        width: 200PX;
+        padding: 40px 15PX 0 0;
+        margin: 10px 20px 0px 0;
+       float: left;
+        
+}
+.pega{
+        background-color: aliceblue ;
+        width: 200px;
+        float: right;
+}
